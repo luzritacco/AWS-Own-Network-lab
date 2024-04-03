@@ -55,7 +55,7 @@ Here are the steps I did follow to create a windows server:
 - Keep the storage the same but more can be added depending on our project needs.
 - Tags can be assigned to resources to better keep track of services across AWS.
 - Then select the security group that we edited to allow ssh and RDP.
-- last step from this part we will need to create a new key pair that we will need to login to our instance.
+- Last step from this part we will need to create a new key pair that we will need to login to our instance.
 ![key pair](https://github.com/luzritacco/AWS-Own-Nework-lab/assets/151267325/e033051a-4527-4f23-b268-6f6d76e7c4c0)
 
 ##
