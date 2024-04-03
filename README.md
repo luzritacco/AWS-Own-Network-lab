@@ -1,4 +1,4 @@
-<h1 align="center">AWS- Build our own network-Lab.</h1>
+<h1 align="center">AWS- Build our own Network-Lab.</h1>
 
 Building my own network in AWS environment  my objective is to get familiar with AWS platform and its environment as well as improve my  technical skills. AWS has many different types of technologies that we can utilize to building our skillset such as:
 
