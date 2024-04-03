@@ -12,7 +12,7 @@ Building my own network in AWS environment  my objective is to get familiar with
 <h3 align="center"> AWS setting Newtok Steps:</h3>
 
   
-- setup an Amazon Web Service Account
+- Setup an Amazon Web Service Account
 - Setup AWS IAM user with MFA
 - Build a VPC with a Single Public Subnet
 - Create a Security Group that allows either RDP or ssh from your home IP
